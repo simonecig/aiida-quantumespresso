@@ -3,6 +3,7 @@ This is a fork of the official AiiDA plugin for [Quantum ESPRESSO](https://www.q
 In particular, the following Calculations have been added:
 - Pw4gwwCalculation
 - EasyAnalyserCalculation
+
 with the related parsers:
 - Pw4gwwParser
 - EasyAnalyserParser
